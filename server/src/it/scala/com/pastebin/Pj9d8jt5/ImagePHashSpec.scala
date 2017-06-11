@@ -68,7 +68,7 @@ class ImagePHashSpec extends FreeSpec {
 
       "Lv50 セレスト" -> "Lvl 50 Celeste",
       "Lv50 ティアマト" -> "Lvl 50 Tiamat",
-      "Lv50 ティアマト・マグナ" -> "Lvl 50 Tiamat Omega",
+      "Lv50 ティアマト・マグナ (風方陣EX)" -> "Lvl 50 Tiamat Omega (風方陣EX)",
       "Lv50 ユグドラシル" -> "Lvl 50 Yggdrasil",
       "Lv50 リヴァイアサン" -> "Lvl 50 Leviathan",
       "Lv50 ヴェセラゴ" -> "Lvl 50 Veselago",
@@ -102,7 +102,7 @@ class ImagePHashSpec extends FreeSpec {
       "Lv120 ナタク" -> "Lvl 120 Nezha",
       "Lv120 フラム＝グラス" -> "Lvl 120 Twin Elements",
       "Lv120 マキュラ・マリウス" -> "Lvl 120 Macula Marius",
-      "Lv150 プロトバハムート" -> "Lvl 150 Proto Bahamut (巴哈姆特HL)"
+      "Lv150 プロトバハムート" -> "Lvl 150 Proto Bahamut"
     )
   }
 
@@ -127,7 +127,7 @@ class ImagePHashSpec extends FreeSpec {
     RaidBoss("Lv50 コロッサス", 50, JP, "https://pbs.twimg.com/media/CT6cUf8VEAEBaEb.jpg"),
     RaidBoss("Lv50 セレスト", 50, JP, "https://pbs.twimg.com/media/CT6cmzjUcAIvSo_.jpg"),
     RaidBoss("Lv50 ティアマト", 50, JP, "https://pbs.twimg.com/media/CT6cLx4VAAAzePV.jpg"),
-    RaidBoss("Lv50 ティアマト・マグナ", 50, JP, "https://pbs.twimg.com/media/CT6buTPUwAIM9VJ.jpg"),
+    RaidBoss("Lv50 ティアマト・マグナ (風方陣EX)", 50, JP, "https://pbs.twimg.com/media/CT6buTPUwAIM9VJ.jpg"),
     RaidBoss("Lv50 ユグドラシル", 50, JP, "https://pbs.twimg.com/media/CT6cbScU8AAgXRw.jpg"),
     RaidBoss("Lv50 リヴァイアサン", 50, JP, "https://pbs.twimg.com/media/CT6cXcgUEAEc0Zl.jpg"),
     RaidBoss("Lv50 ヴェセラゴ", 50, JP, "https://pbs.twimg.com/media/Crtpt5RUAAAV6OG.jpg"),
@@ -182,7 +182,7 @@ class ImagePHashSpec extends FreeSpec {
 
     RaidBoss("Lvl 50 Celeste", 50, EN, "https://pbs.twimg.com/media/CfqXLhHUEAAF92L.jpg"),
     RaidBoss("Lvl 50 Leviathan", 50, EN, "https://pbs.twimg.com/media/CfqW-MVUIAEJrDP.jpg"),
-    RaidBoss("Lvl 50 Tiamat Omega", 50, EN, "https://pbs.twimg.com/media/CfqXQA3UMAEMV7O.jpg"),
+    RaidBoss("Lvl 50 Tiamat Omega (風方陣EX)", 50, EN, "https://pbs.twimg.com/media/CfqXQA3UMAEMV7O.jpg"),
     RaidBoss("Lvl 50 Tiamat", 50, EN, "https://pbs.twimg.com/media/CfqWy2tUUAAr9yu.jpg"),
     RaidBoss("Lvl 50 Veselago", 50, EN, "https://pbs.twimg.com/media/Crtpu8RVMAALBKk.jpg"),
     RaidBoss("Lvl 50 Yggdrasil", 50, EN, "https://pbs.twimg.com/media/CfqXDAQVIAAixiA.jpg"),
@@ -217,7 +217,7 @@ class ImagePHashSpec extends FreeSpec {
     RaidBoss("Lvl 120 Medusa", 120, EN, "https://pbs.twimg.com/media/CfqZlIcVIAAp8e_.jpg"),
     RaidBoss("Lvl 120 Nezha", 120, EN, "https://pbs.twimg.com/media/CfqW4BYUEAAeYSR.jpg"),
     RaidBoss("Lvl 120 Twin Elements", 120, EN, "https://pbs.twimg.com/media/CfqZQ_pUEAAQFI4.jpg"),
-    RaidBoss("Lvl 150 Proto Bahamut (巴哈姆特HL)", 150, EN, "https://pbs.twimg.com/media/CfqZ-YtVAAAt5qd.jpg")
+    RaidBoss("Lvl 150 Proto Bahamut", 150, EN, "https://pbs.twimg.com/media/CfqZ-YtVAAAt5qd.jpg")
   )
 }
 
