@@ -102,7 +102,7 @@ class ImagePHashSpec extends FreeSpec {
       "Lv120 ナタク" -> "Lvl 120 Nezha",
       "Lv120 フラム＝グラス" -> "Lvl 120 Twin Elements",
       "Lv120 マキュラ・マリウス" -> "Lvl 120 Macula Marius",
-      "Lv150 プロトバハムート" -> "Lvl 150 Proto Bahamut"
+      "Lv150 プロトバハムート" -> "Lvl 150 Proto Bahamut (巴哈姆特HL)"
     )
   }
 
