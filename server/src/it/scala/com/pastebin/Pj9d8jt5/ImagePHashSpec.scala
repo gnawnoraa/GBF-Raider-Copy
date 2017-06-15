@@ -68,7 +68,7 @@ class ImagePHashSpec extends FreeSpec {
 
       "Lv50 セレスト" -> "Lvl 50 Celeste",
       "Lv50 ティアマト" -> "Lvl 50 Tiamat",
-      "Lv50 ティアマト・マグナ (風方陣EX)" -> "Lvl 50 Tiamat Omega (風方陣EX)",
+      "Lv50 ティアマト・マグナ" -> "Lvl 50 Tiamat Omega",
       "Lv50 ユグドラシル" -> "Lvl 50 Yggdrasil",
       "Lv50 リヴァイアサン" -> "Lvl 50 Leviathan",
       "Lv50 ヴェセラゴ" -> "Lvl 50 Veselago",
@@ -182,7 +182,7 @@ class ImagePHashSpec extends FreeSpec {
 
     RaidBoss("Lvl 50 Celeste", 50, EN, "https://pbs.twimg.com/media/CfqXLhHUEAAF92L.jpg"),
     RaidBoss("Lvl 50 Leviathan", 50, EN, "https://pbs.twimg.com/media/CfqW-MVUIAEJrDP.jpg"),
-    RaidBoss("Lvl 50 Tiamat Omega (風方陣EX)", 50, EN, "https://pbs.twimg.com/media/CfqXQA3UMAEMV7O.jpg"),
+    RaidBoss("Lvl 50 Tiamat Omega", 50, EN, "https://pbs.twimg.com/media/CfqXQA3UMAEMV7O.jpg"),
     RaidBoss("Lvl 50 Tiamat", 50, EN, "https://pbs.twimg.com/media/CfqWy2tUUAAr9yu.jpg"),
     RaidBoss("Lvl 50 Veselago", 50, EN, "https://pbs.twimg.com/media/Crtpu8RVMAALBKk.jpg"),
     RaidBoss("Lvl 50 Yggdrasil", 50, EN, "https://pbs.twimg.com/media/CfqXDAQVIAAixiA.jpg"),
