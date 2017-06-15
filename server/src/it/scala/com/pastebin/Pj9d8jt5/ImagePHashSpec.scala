@@ -127,7 +127,7 @@ class ImagePHashSpec extends FreeSpec {
     RaidBoss("Lv50 コロッサス", 50, JP, "https://pbs.twimg.com/media/CT6cUf8VEAEBaEb.jpg"),
     RaidBoss("Lv50 セレスト", 50, JP, "https://pbs.twimg.com/media/CT6cmzjUcAIvSo_.jpg"),
     RaidBoss("Lv50 ティアマト", 50, JP, "https://pbs.twimg.com/media/CT6cLx4VAAAzePV.jpg"),
-    RaidBoss("Lv50 ティアマト・マグナ (風方陣EX)", 50, JP, "https://pbs.twimg.com/media/CT6buTPUwAIM9VJ.jpg"),
+    RaidBoss("Lv50 ティアマト・マグナ", 50, JP, "https://pbs.twimg.com/media/CT6buTPUwAIM9VJ.jpg"),
     RaidBoss("Lv50 ユグドラシル", 50, JP, "https://pbs.twimg.com/media/CT6cbScU8AAgXRw.jpg"),
     RaidBoss("Lv50 リヴァイアサン", 50, JP, "https://pbs.twimg.com/media/CT6cXcgUEAEc0Zl.jpg"),
     RaidBoss("Lv50 ヴェセラゴ", 50, JP, "https://pbs.twimg.com/media/Crtpt5RUAAAV6OG.jpg"),
