@@ -87,7 +87,7 @@ class ImagePHashSpec extends FreeSpec {
       "Lv100 シュヴァリエ・マグナ" -> "Lvl 100 Luminiera Omega",
       "Lv100 ジ・オーダー・グランデ" -> "Lvl 100 Grand Order",
       "Lv100 セレスト・マグナ" -> "Lvl 100 Celeste Omega",
-      "Lv100 ティアマト・マグナ＝エア" -> "Lvl 100 Tiamat Omega Ayr",
+      "Lv100 ティアマト・マグナ＝エア" -> "Lvl 100 Tiamat Omega Ayr (風方陣HL)",
       "Lv100 ナタク" -> "Lvl 100 Nezha",
       "Lv100 バアル" -> "Lvl 100 Baal",
       "Lv100 フラム＝グラス" -> "Lvl 100 Twin Elements",
