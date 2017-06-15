@@ -217,7 +217,7 @@ class ImagePHashSpec extends FreeSpec {
     RaidBoss("Lvl 120 Medusa", 120, EN, "https://pbs.twimg.com/media/CfqZlIcVIAAp8e_.jpg"),
     RaidBoss("Lvl 120 Nezha", 120, EN, "https://pbs.twimg.com/media/CfqW4BYUEAAeYSR.jpg"),
     RaidBoss("Lvl 120 Twin Elements", 120, EN, "https://pbs.twimg.com/media/CfqZQ_pUEAAQFI4.jpg"),
-    RaidBoss("Lvl 150 Proto Bahamut", 150, EN, "https://pbs.twimg.com/media/CfqZ-YtVAAAt5qd.jpg")
+    RaidBoss("Lvl 150 Proto Bahamut (巴哈姆特HL)", 150, EN, "https://pbs.twimg.com/media/CfqZ-YtVAAAt5qd.jpg")
   )
 }
 
